@@ -1,4 +1,4 @@
-module douglasdennys45.github.com/go-postgres
+module github.com/douglasdennys45/go-postgres
 
 go 1.20
 
